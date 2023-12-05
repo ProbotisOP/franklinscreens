@@ -1,0 +1,43 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1697473072800,
+  "entries": [
+    {
+      "path": "/content/screens/employee-communications/locations/global/north-america/us/test-san-jose.html",
+      "timestamp": 1697473071936
+    },
+    {
+      "path": "/content/screens/assets/global-video.mp4",
+      "timestamp": 1694351598000
+    },
+    {
+      "path": "/content/screens/assets/global-employees.png",
+      "timestamp": 1694351595000
+    },
+    {
+      "path": "/content/screens/assets/global-sustainability.png",
+      "timestamp": 1697465767000
+    },
+    {
+      "path": "/content/screens/assets/north-america-intern-projects.png",
+      "timestamp": 1694351601000
+    },
+    {
+      "path": "/content/screens/assets/us-wayup.png",
+      "timestamp": 1697465776000
+    },
+    {
+      "path": "/content/screens/assets/san-jose-road.png",
+      "timestamp": 1697465772000
+    }
+  ]
+}
