@@ -1,0 +1,35 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1697473071207,
+  "entries": [
+    {
+      "path": "/content/screens/employee-communications/locations/global/test-north-america.html",
+      "timestamp": 1697473070662
+    },
+    {
+      "path": "/content/screens/assets/global-video.mp4",
+      "timestamp": 1694351598000
+    },
+    {
+      "path": "/content/screens/assets/global-employees.png",
+      "timestamp": 1694351595000
+    },
+    {
+      "path": "/content/screens/assets/global-sustainability.png",
+      "timestamp": 1697465767000
+    },
+    {
+      "path": "/content/screens/assets/north-america-intern-projects.png",
+      "timestamp": 1694351601000
+    }
+  ]
+}
